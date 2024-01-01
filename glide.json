@@ -1,0 +1,14 @@
+[
+  {
+    "kind": "column",
+    "name": "generate course",
+    "description": "generate a course in duolingo style out of topic ",
+    "author": "ariel arieltro78@gmail.com",
+    "params": [
+      {
+        "name": "topic",
+        "displayName": "topic",
+        "type": "string"
+      }
+  }
+]
